@@ -1,6 +1,8 @@
 # Code and Response Project Catalog
 This repository links to projects created as part of Code and Response activities that are not under this GitHub organization. They may have their own goverance and development processes.
 
+If you are aware of other projects created as part of Call for Code or Code and Response, please open an issue with a link to the GitHub repository, description, and optional web site.
+
 ## Call for Code projects from the community
 * [Sparrow Platform](https://github.com/sparrow-platform) - An Intelligent ubiquitous communication platform for medical and psychological well-being of disaster victims. [Website](https://sparrow-platform.com/).
 * [Project AsTeR](https://github.com/Project-AsTeR/) - AI-Powered Real-Time Emergency Calls Analysis and Effective Units Dispatching. [Website](http://www.project-aster.com/)
