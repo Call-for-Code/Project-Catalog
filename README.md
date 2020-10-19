@@ -3,6 +3,7 @@ This repository links to projects created as part of Call for Code activities th
 
 If you are aware of other projects created as part of Call for Code, please open an issue with a link to the GitHub repository, description, and optional web site.
 
+* [Call for Code for Racial Justice](https://github.com/Call-for-Code-for-Racial-Justice) - These project repositories are in a parallel organization.
 * [OpenEEW](https://github.com/openeew) - Earthquake Early Warning (EEW) open source tools.
 * [Choirless](https://github.com/Choirless) - Choirless is a musical collaboration platform for virtual choirs.
 * [Sparrow Platform](https://github.com/sparrow-platform) - An Intelligent ubiquitous communication platform for medical and psychological well-being of disaster victims. [Website](https://sparrow-platform.com/).
