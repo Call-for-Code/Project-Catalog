@@ -7,7 +7,7 @@ If you are aware of other projects created as part of Call for Code, please open
 
 * [Call for Code for Racial Justice](https://github.com/Call-for-Code-for-Racial-Justice) - These project repositories are in a parallel organization.
 * [ISAC-SIMO](https://github.com/ISAC-SIMO) - Build Change - Intelligent Supervision Assistant for Construction - Sistema Inteligente de Monitoreo de Obra. This project is an offshoot of PD3R, runner-up in the CFC 2018 Global Challenge.
-* [Prometeo](https://github.com/Prometeo-Platform) - Organization for Prometeo, winner of the Call for Code 2019 Global Challenge. This hardware/software solution measures toxin exposure in realtime and analyzes trends over time.
+* [Prometeo/Pyrrha](https://github.com/Pyrrha-Platform) - Organization for the the new Pyrrha Platform, the open source software behind Prometeo, winner of the Call for Code 2019 Global Challenge. This hardware/software solution measures toxin exposure in realtime and analyzes trends over time.
 * [OpenEEW](https://github.com/openeew) - Earthquake Early Warning (EEW) open source tools.
 * [Project OWL](https://github.com/Project-Owl) - Projects that are not part of the ClusterDuck Protocol core Linux Foundation project.
 * [Choirless](https://github.com/Choirless)/[Rend-o-matic](https://github.com/Rend-o-matic) - Choirless is a musical collaboration platform for virtual choirs. Rend-o-matic is the core technology behind Choirless.
