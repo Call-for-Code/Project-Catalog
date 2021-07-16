@@ -10,6 +10,7 @@ If you are aware of other projects created as part of Call for Code, please open
 * [Prometeo/Pyrrha](https://github.com/Pyrrha-Platform) - Organization for the the new Pyrrha Platform, the open source software behind Prometeo, winner of the Call for Code 2019 Global Challenge. This hardware/software solution measures toxin exposure in realtime and analyzes trends over time.
 * [OpenEEW](https://github.com/openeew) - Earthquake Early Warning (EEW) open source tools.
 * [Project OWL](https://github.com/Project-Owl) - Projects that are not part of the ClusterDuck Protocol core Linux Foundation project.
+* [Safe Queue](https://github.com/Safe-Queue) - Top 2020 COVID-19 project for social distancing.
 * [Choirless](https://github.com/Choirless)/[Rend-o-matic](https://github.com/Rend-o-matic) - Choirless is a musical collaboration platform for virtual choirs. Rend-o-matic is the core technology behind Choirless.
 * [Sparrow Platform](https://github.com/sparrow-platform) - An Intelligent ubiquitous communication platform for medical and psychological well-being of disaster victims. [Website](https://sparrow-platform.com/).
 * [Project AsTeR](http://www.project-aster.com/) - AI-Powered Real-Time Emergency Calls Analysis and Effective Units Dispatching. The project has created an updated prototype called [Data911](https://911.calaster.com/)
