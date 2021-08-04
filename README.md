@@ -20,15 +20,15 @@ Since the LF owns the trademark for these projects, they may have two names. One
 
 - Protecting firefighters' health: [Pyrrha](https://github.com/Pyrrha-Platform). IoT and AI come together to monitor the levels of toxin exposure for firefighters and to alert them before they are in danger of longterm respiratory problems in this project from Prometeo the CFC 2019 Global Challenge winner.
 
-- Build a mesh network after a natural disaster: [ClusterDuck Protocol](https://github.com/Call-for-Code/ClusterDuck-Protocol/) This mobile mesh network of IoT devices based on LoRa can be accessed by people to stay in touch when communication lines go down following a disaster. From Project OWL, the CFC 2018 Global Challenge winner.
+- Build a mesh network after a natural disaster: [ClusterDuck Protocol](https://github.com/Call-for-Code/ClusterDuck-Protocol) This mobile mesh network of IoT devices based on LoRa can be accessed by people to stay in touch when communication lines go down following a disaster. From Project OWL, the CFC 2018 Global Challenge winner.
 
 - Use AI to make home construction safer: [ISAC-SIMO](https://github.com/ISAC-SIMO) - This project from Build Change uses AI and computer vision to help detect construction issues that could become life-threatening during a major incident like a hurricane or earthquake. This project is an offshoot of PD3R, runner-up in the CFC 2018 Global Challenge.
 
 - Notify communities quickly with Grillo’s simple earthquake early-warning system: [OpenEEW](https://github.com/openeew) - A low-cost IoT sensor measures expected shaking, giving local governments and first responders faster and better earthquake alerts.
 
-- Help small farmers optimize water usage: [Liquid Prep](https://github.com/openeew) - This end-to-end solution, originally developed by a team inside of IBM, can help small farmers understand how much water they are using. CFC IBMer Challenge 2019 winner.
+- Help small farmers optimize water usage: [Liquid Prep](https://github.com/Call-for-Code/Liquid-Prep) - This end-to-end solution, originally developed by a team inside of IBM, can help small farmers understand how much water they are using. CFC IBMer Challenge 2019 winner.
 
-- Aerial scout for first responders: [DroneAid](https://github.com/openeew) - This solution uses machine learning to detect calls for help on the ground placed by those in need. CFC Puerto Rico local winner in 2018.
+- Aerial scout for first responders: [DroneAid](https://github.com/Call-for-Code/DroneAid) - This solution uses machine learning to detect calls for help on the ground placed by those in need. CFC Puerto Rico local winner in 2018.
 
 - Musical collaboration for disconnected performers: [Rend-o-matic](https://github.com/Rend-o-matic) - Helping musicians jam together even when socially distanced, this tool from Choirless analyzes and merges musical waveforms to create a version of a track that can be continually updated. CFC IBMer Challenge 2020 runner up.
 
