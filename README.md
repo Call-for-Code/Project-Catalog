@@ -4,6 +4,11 @@
 
 This repository links to projects created as part of [Call for Code](https://developer.ibm.com/callforcode/) activities. They may have their own GitHub organizations, goverance, and development processes.
 
+- [Call for Code deployment framework](#call-for-code-deployment-framework)
+- [Official Call for Code with The Linux Foundation projects](#official-call-for-code-with-the-linux-foundation-projects)
+- [Other incubating or interesting projects](#other-incubating-or-interesting-projects)
+- [Inactive or archived but of historical interest](#inactive-or-archived-but-of-historical-interest)
+
 ## Call for Code deployment framework
 
 A deployment framework incubates projects that are recognized and awarded through the annual Call for Code Global Challenge or one of the Spot Challenges that may arise during the rest of the year. The end goal is to support the top projects from promising innovation until they reach a period of sustainability as open source projects with strong ecosystems of users and contributors.
