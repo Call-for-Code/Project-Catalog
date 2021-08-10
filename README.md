@@ -6,6 +6,7 @@ This repository links to projects created as part of [Call for Code](https://dev
 
 - [Call for Code deployment framework](#call-for-code-deployment-framework)
 - [Official Call for Code with The Linux Foundation projects](#official-call-for-code-with-the-linux-foundation-projects)
+- [Contributing to Call for Code open source projects](#contributing-to-call-for-code-open-source-projects)
 - [Other incubating or interesting projects](#other-incubating-or-interesting-projects)
 - [Inactive or archived but of historical interest](#inactive-or-archived-but-of-historical-interest)
 
@@ -52,6 +53,16 @@ Since the LF owns the trademark for these projects, they may have two names. One
   - [Five Fifths Voter](https://github.com/Call-for-Code-for-Racial-Justice/Five-Fifths-Voter). This web app empowers minorities to exercise their right to vote and ensures their voice is heard by determining optimal voting strategies and limiting suppression issues.
 
   - [Legit-Info](https://github.com/Call-for-Code-for-Racial-Justice/Legit-Info). Local legislation can have significant impacts on areas as far-reaching as jobs, the environment, and safety. Legit-Info helps individuals understand the legislation that shapes their lives.
+
+## Contributing to Call for Code open source projects
+
+Each repository contains information on how to use and provide improvements to the project.
+
+- The `LICENSE` file shows source code usage guidelines, most often using the Apache 2 License terms.
+- The `CONTRIBUTING.md` file captures the process for reporting problems or sending improvements.
+- Together with the _Technical Charter_, these files outline the rules of the road and how decisions are made around technical changes and expectations around effective collaboration.
+
+If you are new to the open source process, philosophy, and tools, we highly recommend that you take the [entry-level, free "Introduction to Open Source" class](https://cognitiveclass.ai/courses/introduction-to-open-source) from the IBM Developer team which can be completed in about 2-6 hours.
 
 ## Other incubating or interesting projects
 
