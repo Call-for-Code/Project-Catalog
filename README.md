@@ -56,9 +56,13 @@ Since the LF owns the trademark for these projects, they may have two names. One
 
 ## Contributing to Call for Code open source projects
 
-Each repository contains information on how to use and provide improvements to the project. The `LICENSE` file shows source code usage guidelines, most often using the preferred Apache 2 License terms. The `CONTRIBUTING.md` file captures the process for sending improvements. Together with the Technical Charter document, these files outline the rules of the road and how decisions are made around technical changes and expectations around effective collaboration.
+Each repository contains information on how to use and provide improvements to the project.
 
-If you are new to the open source process, philosophy, and tools. We highly recommend that you take the [free "Introduction to Open Source" class](https://cognitiveclass.ai/courses/introduction-to-open-source) which normally takes under 4 hours to complete.
+- The `LICENSE` file shows source code usage guidelines, most often using the Apache 2 License terms.
+- The `CONTRIBUTING.md` file captures the process for reporting problems or sending improvements.
+- Together with the _Technical Charter_, these files outline the rules of the road and how decisions are made around technical changes and expectations around effective collaboration.
+
+If you are new to the open source process, philosophy, and tools, we highly recommend that you take the [entry-level, free "Introduction to Open Source" class](https://cognitiveclass.ai/courses/introduction-to-open-source) from the IBM Developer team which can be completed in about 2-6 hours.
 
 ## Other incubating or interesting projects
 
