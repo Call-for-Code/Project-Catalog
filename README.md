@@ -6,6 +6,7 @@ This repository links to projects created as part of [Call for Code](https://dev
 
 - [Call for Code deployment framework](#call-for-code-deployment-framework)
 - [Official Call for Code with The Linux Foundation projects](#official-call-for-code-with-the-linux-foundation-projects)
+- [Contributing to Call for Code open source projects](#contributing-to-call-for-code-open-source-projects)
 - [Other incubating or interesting projects](#other-incubating-or-interesting-projects)
 - [Inactive or archived but of historical interest](#inactive-or-archived-but-of-historical-interest)
 
@@ -52,6 +53,12 @@ Since the LF owns the trademark for these projects, they may have two names. One
   - [Five Fifths Voter](https://github.com/Call-for-Code-for-Racial-Justice/Five-Fifths-Voter). This web app empowers minorities to exercise their right to vote and ensures their voice is heard by determining optimal voting strategies and limiting suppression issues.
 
   - [Legit-Info](https://github.com/Call-for-Code-for-Racial-Justice/Legit-Info). Local legislation can have significant impacts on areas as far-reaching as jobs, the environment, and safety. Legit-Info helps individuals understand the legislation that shapes their lives.
+
+## Contributing to Call for Code open source projects
+
+Each repository contains information on how to use and provide improvements to the project. The `LICENSE` file shows source code usage guidelines, most often using the preferred Apache 2 License terms. The `CONTRIBUTING.md` file captures the process for sending improvements. Together with the Technical Charter document, these files outline the rules of the road and how decisions are made around technical changes and expectations around effective collaboration.
+
+If you are new to the open source process, philosophy, and tools. We highly recommend that you take the [free "Introduction to Open Source" class](https://cognitiveclass.ai/courses/introduction-to-open-source) which normally takes under 4 hours to complete.
 
 ## Other incubating or interesting projects
 
