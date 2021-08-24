@@ -2,9 +2,9 @@
 
 [![License](https://img.shields.io/badge/License-Apache2-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0) [![Slack](https://img.shields.io/static/v1?label=Community&message=%23open-source-general&color=blue)](https://developer.ibm.com/callforcode/solutions/projects/get-started/)
 
-This repository links to projects created as part of [Call for Code](https://developer.ibm.com/callforcode/) activities. They may have their own GitHub organizations, goverance, and development processes.
+This repository links to the projects created as part of [Call for Code](https://developer.ibm.com/callforcode/) activities. They may have their own GitHub organizations, goverance, and development processes.
 
-- [Call for Code Deployment Dramework](#call-for-code-deployment-framework)
+- [Call for Code Deployment Framework](#call-for-code-deployment-framework)
 - [Official Call for Code with The Linux Foundation projects](#official-call-for-code-with-the-linux-foundation-projects)
 - [Contributing to Call for Code open source projects](#contributing-to-call-for-code-open-source-projects)
 - [Other incubating or interesting projects](#other-incubating-or-interesting-projects)
@@ -24,7 +24,7 @@ Each project at the LF is available for anyone to use and contribute to accordin
 
 Since the LF owns the trademark for these projects, they may have two names. One is the neutral project name (such as Pyrrha), the other is the original project name carried forward separately by the creating team or organization (such as Prometeo).
 
-- Protecting firefighters' health: [Pyrrha](https://github.com/Pyrrha-Platform). IoT and AI come together to monitor the levels of toxin exposure for firefighters and to alert them before they are in danger of longterm respiratory problems in this project from Prometeo the CFC 2019 Global Challenge winner.
+- Protecting firefighters' health: [Pyrrha](https://github.com/Pyrrha-Platform). IoT and AI come together to monitor the levels of toxin exposure for firefighters and to alert them before they are in danger of long-term respiratory problems in this project from Prometeo the CFC 2019 Global Challenge winner.
 
 - Build a mesh network after a natural disaster: [ClusterDuck Protocol](https://github.com/Call-for-Code/ClusterDuck-Protocol) This mobile mesh network of IoT devices based on LoRa can be accessed by people to stay in touch when communication lines go down following a disaster. From Project OWL, the CFC 2018 Global Challenge winner.
 
@@ -66,7 +66,7 @@ If you are new to the open source process, philosophy, and tools, we highly reco
 
 ## Other incubating or interesting projects
 
-These projects are not officially hosted at The Linux Foundation but some do have active communities or more recent offshoots or pivots. They might also serve as starting points for new projects.
+These projects are not officially hosted at The Linux Foundation, but some do have active communities or more recent offshoots or pivots. They might also serve as starting points for new projects.
 
 - [Project OWL](https://github.com/Project-Owl) projects that are not part of the ClusterDuck Protocol core Linux Foundation project.
 
