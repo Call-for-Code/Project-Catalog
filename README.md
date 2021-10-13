@@ -1,6 +1,6 @@
 # Call for Code project catalog
 
-[![License](https://img.shields.io/badge/License-Apache2-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0) [![Slack](https://img.shields.io/static/v1?label=Community&message=%23open-source-general&color=blue)](https://developer.ibm.com/callforcode/solutions/projects/get-started/)
+[![License](https://img.shields.io/badge/License-Apache2-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0) [![Slack](https://img.shields.io/static/v1?label=Community&message=%23open-source-general&color=blue)](https://callforcode.org/slack)
 
 This repository links to the projects created as part of [Call for Code](https://developer.ibm.com/callforcode/) activities. They may have their own GitHub organizations, goverance, and development processes.
 
