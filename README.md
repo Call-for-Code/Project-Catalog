@@ -32,7 +32,7 @@ Since the LF owns the trademark for these projects, they may have two names. One
 
 - Notify communities quickly with Grillo’s simple earthquake early-warning system: [OpenEEW](https://github.com/openeew) - A low-cost IoT sensor measures expected shaking, giving local governments and first responders faster and better earthquake alerts.
 
-- Help small farmers optimize water usage: [Liquid Prep](https://github.com/Call-for-Code/Liquid-Prep) - This end-to-end solution, originally developed by a team inside of IBM, can help small farmers understand how much water they are using. CFC IBMer Challenge 2019 winner.
+- Help small farmers optimize water usage: [Liquid Prep](https://github.com/Liquid-Prep) - This end-to-end solution, originally developed by a team inside of IBM, can help small farmers understand how much water they are using. CFC IBMer Challenge 2019 winner.
 
 - Aerial scout for first responders: [DroneAid](https://github.com/Call-for-Code/DroneAid) - This solution uses machine learning to detect calls for help on the ground placed by those in need. CFC Puerto Rico local winner in 2018.
 
