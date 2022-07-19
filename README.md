@@ -68,7 +68,7 @@ If you are new to the open source process, philosophy, and tools, we highly reco
 
 These projects are not officially hosted at The Linux Foundation, but some do have active communities or more recent offshoots or pivots. They might also serve as starting points for new projects.
 
-- [OpenHarvest](https://github.com/Call-for-Code/OpenHarvest) - OpenHarvest is a web application designed to balance farming production in India..
+- [OpenHarvest](https://github.com/Call-for-Code/OpenHarvest) - OpenHarvest is a web application designed to balance farming production in India.
 
 - [Project OWL](https://github.com/Project-Owl) projects that are not part of the ClusterDuck Protocol core Linux Foundation project.
 
