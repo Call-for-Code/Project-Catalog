@@ -82,7 +82,7 @@ These projects are not officially hosted at The Linux Foundation, but some do ha
 
 - [Sparrow Platform](https://github.com/sparrow-platform) - An Intelligent ubiquitous communication platform for medical and psychological well-being of disaster victims. [Website](https://sparrow-platform.com/). CFC 2019 finalist.
 
-- [Project AsTeR](http://www.project-aster.com/). AI-Powered Real-Time Emergency Calls Analysis and Effective Units Dispatching. The project has created an updated prototype called [Data911](https://911.calaster.com/). CFC 2019 finalist.
+- [Project AsTeR](https://github.com/cal-aster/data-911). AI-Powered Real-Time Emergency Calls Analysis and Effective Units Dispatching. The project has created an updated prototype called Data911. CFC 2019 finalist.
 
 - [Project Lantern](https://github.com/lantern-works), Long-Range Wireless Apps. CFC IBMer Challenge 2018 finalist.
 
