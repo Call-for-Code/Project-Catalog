@@ -24,6 +24,10 @@ Each project at the LF is available for anyone to use and contribute to accordin
 
 Since the LF owns the trademark for these projects, they may have two names. One is the neutral project name (such as Pyrrha), the other is the original project name carried forward separately by the creating team or organization (such as Prometeo).
 
+- [OpenTempus](https://github.com/OpenTempus/OpenTempus) provides long-term (annual) weather forecasts for temperature and rainfall in order to help smallholder farmers make better decisions about what to plant and when.
+
+- [OpenHarvest](https://github.com/Call-for-Code/OpenHarvest) is a platform designed to manage farmers, fields, and crops to ensure the farmers succeed in making profits.
+
 - Protecting firefighters' health: [Pyrrha](https://github.com/Pyrrha-Platform). IoT and AI come together to monitor the levels of toxin exposure for firefighters and to alert them before they are in danger of long-term respiratory problems in this project from Prometeo the CFC 2019 Global Challenge winner.
 
 - Build a mesh network after a natural disaster: [ClusterDuck Protocol](https://github.com/Call-for-Code/ClusterDuck-Protocol) This mobile mesh network of IoT devices based on LoRa can be accessed by people to stay in touch when communication lines go down following a disaster. From Project OWL, the CFC 2018 Global Challenge winner.
@@ -67,8 +71,6 @@ If you are new to the open source process, philosophy, and tools, we highly reco
 ## Other incubating or interesting projects
 
 These projects are not officially hosted at The Linux Foundation, but some do have active communities or more recent offshoots or pivots. They might also serve as starting points for new projects.
-
-- [OpenHarvest](https://github.com/Call-for-Code/OpenHarvest) - OpenHarvest is a web application designed to balance farming production in India.
 
 - [Project OWL](https://github.com/Project-Owl) projects that are not part of the ClusterDuck Protocol core Linux Foundation project.
 
