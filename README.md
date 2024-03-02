@@ -18,7 +18,7 @@ A deployment framework incubates projects that are recognized and awarded throug
 
 ## Official Call for Code with The Linux Foundation projects
 
-There are fourteen official [Call for Code projects hosted by The Linux Foundation](https://www.linuxfoundation.org/projects/call-for-code/). This means that they have nearly graduated from the deployment framework pipeline shown above.
+There are eighteen official [Call for Code projects hosted by The Linux Foundation](https://www.linuxfoundation.org/projects/call-for-code/). This means that they have nearly graduated from the deployment framework pipeline shown above.
 
 Each project at the LF is available for anyone to use and contribute to according to the Apache 2 License and Developer Certificate of Origin. They all have a project charter that defines a leadership team (the Technical Steering Committee), decision making processes, and contribution guidelines.
 
